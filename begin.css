@@ -1,0 +1,25 @@
+@media only screen and (min-width: 600px){
+    body{
+        background-color: grey;
+        background-image:url("http://www.mixadesivos.com.br/simulador/0f46c64b74a6c964c674853a89796c8e/1_21_170217044444_adesivo-de-parede-simbolo-do-dragao-mortal-kombat.png");
+        background-repeat: no-repeat;
+        background-position: right top;
+        }
+        h1{
+            font-family:Arial;
+            color: red;
+            text-align: center; 
+        }
+        h5{
+            font-family:Arial;
+        }
+        h3{
+            font-family:Arial;
+        }
+        h4{
+            color: white;
+            text-align: left;
+            font-family: arial 150px;
+            border-bottom: 6px solid red;
+            background-color:black;
+        }   
